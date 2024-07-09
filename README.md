@@ -24,3 +24,4 @@ Within this code it is necessary to make some modifications so that it fits the 
 - type pip install time
 
 # How to organize the datasheet so that you can use the program
+Para que seja possivel utilizar o programa é necessario que a planilha com dados siga os padrões usados no arquivo example_table.csv, ou seja, deve ter as 4 colunas presentes na imagem a seguir.
