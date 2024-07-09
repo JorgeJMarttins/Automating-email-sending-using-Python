@@ -17,4 +17,10 @@ The program uses the python programming language and 3 of its libraries, namely:
 - application.py
 Within this code it is necessary to make some modifications so that it fits the user's profile, these points that must be changed are punctuated as a comment within the lines of code themselves
 
-3° Após realizar tais modificações, 
+3° After making the necessary changes, you must install the python language libraries, for this follow the following steps:
+- Open the terminal
+- type pip install pyautogui
+- type pip install pandas
+- type pip install time
+
+# How to organize the datasheet so that you can use the program
