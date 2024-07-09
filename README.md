@@ -10,5 +10,10 @@ The program uses the python programming language and 3 of its libraries, namely:
 - time: used inside the code to control the speed at which functions are executed
 
 # How to apply the code on your machine
-1° Deve-se instalar a versão 3.12.4 da linguagem python
-2° Fazer download dos 3 seguintes códigos
+1° You must install version 3.12.4 of the python language
+2° Download the following 2 codes:
+- main.py
+- application.py
+Within this code it is necessary to make some modifications so that it fits the user's profile, these points that must be changed are punctuated as a comment within the lines of code themselves
+
+3° Após realizar tais modificações, 
