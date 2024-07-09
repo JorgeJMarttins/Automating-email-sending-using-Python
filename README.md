@@ -24,4 +24,9 @@ Within this code it is necessary to make some modifications so that it fits the 
 - type pip install time
 
 # How to organize the datasheet so that you can use the program
-Para que seja possivel utilizar o programa é necessario que a planilha com dados siga os padrões usados no arquivo example_table.csv, ou seja, deve ter as 4 colunas presentes na imagem a seguir.
+In order to be able to use the program, it is necessary that the spreadsheet with data follows the standards used in the example_table.csv file, that is, it must have the 4 columns present in the following image.
+
+![Captura de Tela (9)](https://github.com/JorgeJMarttins/Automating-Gmail-Sends-Using-Python/assets/175155847/d492bbe3-4c82-466b-88a4-fa7b06bf21f9)
+
+
+
