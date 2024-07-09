@@ -11,6 +11,7 @@ The program uses the python programming language and 3 of its libraries, namely:
 
 # How to apply the code on your machine
 1° You must install version 3.12.4 of the python language
+
 2° Download the following 2 codes:
 - main.py
 - application.py
