@@ -4,7 +4,7 @@ import pandas as pd
 Message.acess_browser()
 Message.login_gmail()
 
-date = pd.read_csv('table.csv')
+date = pd.read_csv('table.csv') # Data table path
 
 for line in date.index:
     name = date.loc[line, "Name"]
