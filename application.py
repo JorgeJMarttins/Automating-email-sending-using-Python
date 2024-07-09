@@ -33,7 +33,7 @@ class Message():
         pyautogui.write(str(subject))
         pyautogui.press("tab")
         time.sleep(0.5)
-        pyautogui.write('Hello '+name+',\n\n'+body+' \n\nyour sincerely '+'users name') # You should put the name of the person who sent the email
+        pyautogui.write('Hello '+name+',\n\n'+body+' \n\nyour sincerely '+'users name') # You must put the name of the sender of the email
         pyautogui.press('tab')
         pyautogui.press('enter')
     
